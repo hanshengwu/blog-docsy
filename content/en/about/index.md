@@ -1,7 +1,9 @@
 ---
-title: 韓
+title: 韓勝武
 linkTitle: About
-menu: {main: {weight: 10}}
+menu:
+  main:
+    weight: 10
 ---
 
 {{% blocks/cover title="韓  勝  武" image_anchor="bottom" height="auto" %}}
@@ -24,7 +26,7 @@ menu: {main: {weight: 10}}
 {.text-center}
 
 ### 中国银行 、银联商务、苏宁、美团、廊坊银行、工银科技
-{.text-center}
+{.text-left}
 
 {{% /blocks/section %}}
 
@@ -33,7 +35,7 @@ menu: {main: {weight: 10}}
 # 兴趣爱好
 {.text-center}
 
-### 骑行🚴🏻、游泳🏊🏻
-{.text-center}
+### 骑行🚴🏻、游泳🏊🏻、羽毛球🏸、看电影📺、打游戏🎮、爬山⛰、滑板🛹、逛公园🏞、旅游🏖
+{.text-left}
 
 {{% /blocks/section %}}
