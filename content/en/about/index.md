@@ -1,5 +1,5 @@
 ---
-title: 韓勝武
+title: 韓
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
@@ -23,7 +23,8 @@ menu: {main: {weight: 10}}
 # 工作履历
 {.text-center}
 
-### 中国银行
+### 中国银行 
+{.text-center}
 ### 银联商务
 {.text-center}
 
