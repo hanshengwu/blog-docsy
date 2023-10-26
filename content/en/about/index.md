@@ -35,7 +35,7 @@ menu: {main: {weight: 10}}
 # 兴趣爱好
 {.text-center}
 
-### 骑行、追剧
+### 骑行🚴🏻、游泳🏊🏻
 {.text-center}
 
 {{% /blocks/section %}}
