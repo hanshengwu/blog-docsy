@@ -23,9 +23,7 @@ menu: {main: {weight: 10}}
 # 工作履历
 {.text-center}
 
-### 中国银行 
-{.text-center}
-### 银联商务
+### 中国银行 、银联商务、苏宁、美团、廊坊银行、工银科技
 {.text-center}
 
 {{% /blocks/section %}}
