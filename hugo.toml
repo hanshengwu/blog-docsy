@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "勝武"
 
 # Language settings
 contentDir = "content/en"
@@ -64,8 +64,8 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "勝武"
+description = "一个略懂代码的产品经理"
 
 [languages.no]
 languageName ="Norsk"
