@@ -64,7 +64,7 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "勝武"
+title = "韓勝武"
 description = "一个略懂代码的产品经理"
 
 [languages.no]
