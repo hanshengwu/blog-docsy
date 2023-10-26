@@ -3,3 +3,14 @@ resources/
 node_modules/
 package-lock.json
 .hugo_build.lock
+content/no/docs/.DS_Store
+content/no/.DS_Store
+content/fa/blog/news/.DS_Store
+content/fa/blog/.DS_Store
+content/fa/.DS_Store
+content/en/blog/news/.DS_Store
+content/en/blog/.DS_Store
+content/en/.DS_Store
+content/.DS_Store
+assets/.DS_Store
+.DS_Store
