@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/about/index.md",
+                "file": "content/en/docs/学习/机器学习/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/about/index.md",
+                "file": "content/en/docs/学习/机器学习/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/about/index.md",
+                "file": "content/en/docs/学习/机器学习/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/about/index.md"
+                "file": "content/en/docs/学习/机器学习/_index.md"
               }
             }
           }
@@ -148,7 +148,17 @@
   },
   "active": "cb82e4c74f0a6052",
   "lastOpenFiles": [
+    "content/en/docs/学习/_index.md",
+    "content/en/docs/学习/机器学习/_index.md",
+    "content/en/docs/产品/系统/_index.md",
+    "content/en/docs/产品/数据/_index.md",
+    "content/en/docs/产品/模型/_index.md",
     "content/en/docs/产品/_index.md",
+    "content/en/docs/Tasks/_index.md",
+    "content/en/docs/Getting started/example-page.md",
+    "content/en/docs/Getting started/_index.md",
+    "content/en/docs/Examples/_index.md",
+    "content/en/about/index.md",
     "content/en/docs/产品/系统",
     "content/en/docs/产品/未命名文件夹",
     "content/en/docs/产品/模型",
@@ -163,7 +173,6 @@
     "content/en/_index.md",
     "content/en/featured-background.jpg",
     "content/en/search.md",
-    "content/en/about/index.md",
     "CONTRIBUTING.md",
     "README.md",
     "content/no/docs/_index.md",
@@ -177,7 +186,6 @@
     "content/en/blog/releases/in-depth-monoliths-detailed-spec.md",
     "content/en/blog/releases/_index.md",
     "content/en/blog/news/second-post.md",
-    "content/en/blog/news/first-post/index.md",
     "content/en/blog/news/first-post/featured-sunset-get.png"
   ]
 }
