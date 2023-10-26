@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/docs/学习/机器学习/_index.md",
+                "file": "content/en/community/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/docs/学习/机器学习/_index.md",
+                "file": "content/en/community/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/docs/学习/机器学习/_index.md",
+                "file": "content/en/community/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/docs/学习/机器学习/_index.md"
+                "file": "content/en/community/_index.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   "active": "cb82e4c74f0a6052",
   "lastOpenFiles": [
     "content/en/community/second-post.md",
-    "content/en/docs/学习/_index.md",
+    "content/en/community/_index.md",
     "content/en/docs/学习/机器学习/_index.md",
+    "content/en/docs/学习/_index.md",
     "content/en/docs/产品/系统/_index.md",
     "content/en/docs/产品/数据/_index.md",
     "content/en/docs/产品/模型/_index.md",
@@ -183,7 +184,6 @@
     "content/no/docs/api-reference/examples/in-depth-monoliths-detailed-spec.md",
     "content/no/docs/api-reference/examples/_index.md",
     "content/en/docs/Concepts/_index.md",
-    "content/en/community/_index.md",
     "content/en/blog/releases/in-depth-monoliths-detailed-spec.md",
     "content/en/blog/releases/_index.md",
     "content/en/blog/news/first-post/featured-sunset-get.png"
