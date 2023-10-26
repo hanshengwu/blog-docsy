@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/_index.md"
+                "file": "content/en/about/index.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "cb82e4c74f0a6052",
   "lastOpenFiles": [
+    "content/en/about/featured-background.jpg",
+    "content/en/_index.md",
     "content/en/featured-background.jpg",
     "content/en/search.md",
     "content/en/about/index.md",
-    "content/en/about/featured-background.jpg",
     "CONTRIBUTING.md",
     "README.md",
     "content/no/docs/_index.md",
