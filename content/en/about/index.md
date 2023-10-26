@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: 韓勝武
 linkTitle: About
 menu:
   main:
