@@ -11,12 +11,8 @@
             "id": "cb82e4c74f0a6052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/en/community/_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/community/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/community/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/en/community/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,11 @@
   },
   "active": "cb82e4c74f0a6052",
   "lastOpenFiles": [
-    "content/en/community/second-post.md",
     "content/en/community/_index.md",
+    "content/en/community2/second-post.md",
+    "content/en/community2/_index.md",
+    "content/en/community2",
+    "content/en/community/second-post.md",
     "content/en/docs/学习/机器学习/_index.md",
     "content/en/docs/学习/_index.md",
     "content/en/docs/产品/系统/_index.md",
@@ -170,7 +165,6 @@
     "content/en/docs/学习/政策法规",
     "content/en/docs/学习/机器学习",
     "content/en/docs/学习/深度学习",
-    "content/en/docs/学习/统计学",
     "content/en/about/featured-background.jpg",
     "content/en/_index.md",
     "content/en/featured-background.jpg",
@@ -184,8 +178,6 @@
     "content/no/docs/api-reference/examples/in-depth-monoliths-detailed-spec.md",
     "content/no/docs/api-reference/examples/_index.md",
     "content/en/docs/Concepts/_index.md",
-    "content/en/blog/releases/in-depth-monoliths-detailed-spec.md",
-    "content/en/blog/releases/_index.md",
     "content/en/blog/news/first-post/featured-sunset-get.png"
   ]
 }
