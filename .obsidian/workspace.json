@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "2d5bad3b884b0a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c722481a19b55e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb82e4c74f0a6052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/en/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7302af1ca6166a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd014dfc40bf1775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7344091ab68f5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f2a71f00b63800f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c388348dae26c51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94bf732e519e3d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7880516522dfe6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca6d1c43d4d60ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/en/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f373a8340fc8573",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/en/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "600d53a110708148",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c55959a21a90952",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/en/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cb82e4c74f0a6052",
+  "lastOpenFiles": [
+    "content/en/featured-background.jpg",
+    "content/en/search.md",
+    "content/en/about/index.md",
+    "content/en/about/featured-background.jpg",
+    "CONTRIBUTING.md",
+    "README.md",
+    "content/no/docs/_index.md",
+    "content/no/search.md",
+    "content/no/docs/api-reference/examples/the-inside-of-microservices-how-does-it-work.md",
+    "content/no/docs/api-reference/examples/the-inside-of-cryptography-detailed-spec.md",
+    "content/no/docs/api-reference/examples/in-depth-monoliths-detailed-spec.md",
+    "content/no/docs/api-reference/examples/_index.md",
+    "content/en/docs/Concepts/_index.md",
+    "content/en/community/_index.md",
+    "content/en/blog/releases/in-depth-monoliths-detailed-spec.md",
+    "content/en/blog/releases/_index.md",
+    "content/en/blog/news/second-post.md",
+    "content/en/blog/news/first-post/index.md",
+    "content/en/blog/news/first-post/featured-sunset-get.png"
+  ]
+}
