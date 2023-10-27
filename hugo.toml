@@ -60,19 +60,20 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-languageName ="中文"
+languageName ="Chinese"
+contentDir = "content/cn"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
 title = "韓勝武"
 description = "一个略懂代码的产品经理"
 
-[languages.cn]
-languageName ="Chinese"
-contentDir = "content/cn"
-[languages.cn.params]
+[languages.fa]
+languageName ="English"
+contentDir = "content/en"
+[languages.fa.params]
 title = "韓勝武"
-description = "中文页面"
+description = "英文页面"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
