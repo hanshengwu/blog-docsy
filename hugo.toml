@@ -2,7 +2,7 @@ baseURL = "/"
 title = "韓勝武"
 
 # Language settings
-contentDir = "content/en"
+contentDir = "content/cn"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
@@ -59,7 +59,7 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
-[languages.en]
+[languages.cn]
 languageName ="Chinese"
 contentDir = "content/cn"
 # Weight used for sorting.
@@ -68,10 +68,10 @@ weight = 1
 title = "韓勝武"
 description = "一个略懂代码的产品经理"
 
-[languages.fa]
+[languages.en]
 languageName ="English"
 contentDir = "content/en"
-[languages.fa.params]
+[languages.en.params]
 title = "韓勝武"
 description = "英文页面"
 time_format_default = "2006.01.02"
