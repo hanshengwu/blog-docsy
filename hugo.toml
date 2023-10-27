@@ -3,7 +3,7 @@ title = "韓勝武"
 
 # Language settings
 contentDir = "content/cn"
-defaultContentLanguage = "en"
+defaultContentLanguage = "cn"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -64,7 +64,7 @@ languageName ="Chinese"
 contentDir = "content/cn"
 # Weight used for sorting.
 weight = 1
-[languages.en.params]
+[languages.cn.params]
 title = "韓勝武"
 description = "一个略懂代码的产品经理"
 
