@@ -67,21 +67,12 @@ weight = 1
 title = "韓勝武"
 description = "一个略懂代码的产品经理"
 
-[languages.no]
-languageName ="Norsk"
-contentDir = "content/no"
-[languages.no.params]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fa]
-languageName ="فارسی"
-contentDir = "content/fa"
-[languages.fa.params]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
+[languages.cn]
+languageName ="Chinese"
+contentDir = "content/cn"
+[languages.cn.params]
+title = "韓勝武"
+description = "中文页面"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
