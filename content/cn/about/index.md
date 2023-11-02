@@ -53,4 +53,6 @@ menu:
 
 {{% blocks/section %}}
 ![a](http://s3h6d3c46.hb-bkt.clouddn.com/IMG_4843.JPG)
+哈哈
+![6df4548bd3ca29eee4cf2324b5f7ff50.jpeg](https://i.mji.rip/2023/11/02/6df4548bd3ca29eee4cf2324b5f7ff50.jpeg)
 {{% /blocks/section %}}
