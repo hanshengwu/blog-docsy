@@ -11,8 +11,12 @@
             "id": "cb82e4c74f0a6052",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/cn/about/index.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/cn/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/cn/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/cn/about/index.md"
+              }
             }
           }
         ]
@@ -130,32 +138,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "cb82e4c74f0a6052",
   "lastOpenFiles": [
+    "content/en/docs/_index.md",
+    "未命名.md",
+    "hugo.toml.sb-21d2ff16-OffFWt",
+    "hugo.toml.sb-21d2ff16-qf8qYx",
+    "hugo.toml.sb-21d2ff16-U6yLwv",
     "content/cn/docs/_index.md",
+    "content/en/_index.md",
+    "content/cn/about/index.md",
+    "resources/_gen/images/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png",
+    "resources/_gen/images/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_960x540_fill_q75_catmullrom_top.jpg",
+    "resources/_gen/images/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_250x125_fill_catmullrom_smart1_3.png",
+    "resources/_gen/images/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_1920x1080_fill_q75_catmullrom_top.jpg",
+    "resources/_gen/assets/scss/scss/main.scss_3f90599f3717b4a4920df16fdcadce3d.json",
+    "resources/_gen/assets/scss/scss/main.scss_3f90599f3717b4a4920df16fdcadce3d.content",
+    "resources/_gen/assets/scss/scss",
+    "resources/_gen/assets/scss",
+    "resources/_gen/images/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png",
+    "resources/_gen/images/blog/news/first-post",
+    "resources/_gen/images/blog/news",
+    "resources/_gen/images/blog",
+    "resources/_gen/images/about/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_960x540_fill_q75_catmullrom_bottom.jpg",
+    "resources/_gen/images/about/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_1920x1080_fill_q75_catmullrom_bottom.jpg",
     "content/cn/docs/Reference/parameter-reference.md",
     "content/cn/docs/Reference/_index.md",
-    "content/cn/docs/Reference",
     "content/cn/docs/Overview/_index.md",
-    "content/cn/docs/Overview",
-    "content/cn/docs/学习/可视化",
     "content/cn/docs/学习/_index.md",
-    "content/cn/docs/学习/深度学习",
-    "content/cn/docs/学习/R语言",
-    "content/cn/docs/学习/统计学",
     "content/cn/docs/学习/机器学习/_index.md",
-    "content/cn/docs/学习/行业标准",
-    "content/cn/docs/学习/Python",
-    "content/cn/docs/学习/政策法规",
-    "content/cn/docs/学习/机器学习",
     "content/cn/docs/Tutorials/tutorial2.md",
     "content/cn/docs/Tutorials/multi-bear.md",
     "content/cn/docs/Tutorials/_index.md",
@@ -171,20 +193,8 @@
     "content/cn/docs/Tasks/beds.md",
     "content/cn/docs/Tasks/Ponycopters/_index.md",
     "content/cn/docs/Tasks/Ponycopters/launching-ponycopters.md",
-    "content/cn/docs/Tasks/Ponycopters/configuring-ponycopters.md",
-    "content/cn/docs/Tasks/porridge.md",
-    "content/cn/docs/Getting started/example-page.md",
-    "content/cn/docs/Getting started/_index.md",
-    "content/cn/community/_index.md",
     "content/cn/blog/news/first-post/featured-sunset-get.png",
     "content/en/blog/news/first-post/featured-sunset-get.png",
-    "content/en/about/featured-background.jpg",
-    "content/en/featured-background.jpg",
-    "content/cn/about/featured-background.jpg",
-    "content/e/blog/news/first-post/featured-sunset-get.png",
-    "content/e/about/featured-background.jpg",
-    "content/e/featured-background.jpg",
-    "content/cn_副本/blog/news/first-post/featured-sunset-get.png",
-    "content/cn_副本/about/featured-background.jpg"
+    "content/en/about/featured-background.jpg"
   ]
 }
